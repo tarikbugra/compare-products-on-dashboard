@@ -1,1 +1,1 @@
-# compare-any-product-on-dashboard
+# compare-products-on-dashboard
